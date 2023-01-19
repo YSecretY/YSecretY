@@ -10,7 +10,7 @@
   <img src="https://camo.githubusercontent.com/c1b58e41b98a889bca12be9902dbfc0ec506e161ae26b8e0460a7b64e661b816/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b65645f496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d4c696e6b6564496e266c6f676f436f6c6f723d7768697465" alt="linked-in" data-canonical-src="https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&amp;logo=LinkedIn&amp;logoColor=white" style="max-width: 100%;">
   </a>
   <a href = "#">
-  <img src="https://cdn.lifehacker.ru/wp-content/uploads/2021/11/Kak-ochistit-kesh-v-Telegram_1637375450.jpg" alt="linked-in" data-canonical>
+  <img src="https://cdn.lifehacker.ru/wp-content/uploads/2021/11/Kak-ochistit-kesh-v-Telegram_1637375450.jpg" style="max-width: 5%;">
   </a>
 
 <!--
