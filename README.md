@@ -1,4 +1,7 @@
 <h1> Hi :wave:, It is nice to see you here!
+  
+<hr>
+ <h2> :rocket: About me 
 
 <!--
 **YSecretY/YSecretY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
