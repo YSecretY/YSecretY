@@ -1,7 +1,7 @@
 <h1> Hi :wave:, It is nice to see you here!
   
  <h2> :rocket: About me 
-   <h3> :mortar_board: Student at Ukrainian university.
+   :mortar_board: Student at Ukrainian university, 🧑🏻‍💻 learn software engineering, currently explore :snake:python + django.:sunrise:
 
 <!--
 **YSecretY/YSecretY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
