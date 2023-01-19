@@ -1,6 +1,6 @@
 <h1> Hi :wave:, It is nice to see you here!</h1>
   
- <h2> :walking: About me </h2>
+ <h2> :rocket: About me </h2>
    :mortar_board: Student at Ukrainian university (1-year), 🧑🏻‍💻 learn software engineering, currently explore :snake:python + django.:rocket:
 
 <!--
