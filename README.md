@@ -3,7 +3,7 @@
  <h2> :rocket: About me </h2>
    :mortar_board: Student at Ukrainian university (1-year), 🧑🏻‍💻 learn software engineering, currently explore :snake:python + django.:rocket:
  <h3> :link: My links </h3>
-<a href="#" style="color: white; text-decoration: none;">Test link</a>
+https://img.shields.io/badge/-<GitHub>-<090909>
 <!--
 **YSecretY/YSecretY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
