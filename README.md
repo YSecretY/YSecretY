@@ -2,8 +2,8 @@
   
 ## :rocket: About me
    - :mortar_board: Student at Ukrainian university (1-year)
-   - 🧑🏻‍💻 learn software engineering 
-   - currently explore :snake:python + django.:rocket:
+   - 🧑🏻‍💻 Learn software engineering 
+   - :fire: Currently explore :snake:python + django.:rocket:
 ## :link: My links
 <a href='https://github.com/YSecretY'>![ alt text ](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub)</a>
 <a href='bogdanhrachov@gmail.com'>![ alt text ](https://img.shields.io/badge/GMail-EA4335?style=for-the-badge&logo=GMail)</a>
