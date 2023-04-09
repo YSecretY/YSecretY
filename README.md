@@ -6,7 +6,6 @@
    - :fire: Currently explore GO
 ## :link: My links
 <a href='https://github.com/YSecretY'>![ alt text ](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub)</a>
-<a href='bogdanhrachov@gmail.com'>![ alt text ](https://img.shields.io/badge/GMail-EA4335?style=for-the-badge&logo=GMail)</a>
 <a href='https://t.me/ssecret_s'>![ alt text ](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram)</a>
 <a href='https://www.linkedin.com/in/bogdan-hrachov-190a0225a/'>![ alt text ](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn)</a>
 <!--
