@@ -1,9 +1,9 @@
 # Hi :wave:, It is nice to see you here!
   
 ## :rocket: About me
-   - :mortar_board: Student at :ukraine: Ukrainian university (1-year)
+   - :mortar_board: Student at :ukraine: Ukrainian university (2-year)
    - 🧑🏻‍💻 Learn software engineering
-   - :fire: Currently explore GO
+   - :fire: Currently explore C#
 ## :link: My links
 <a href='https://github.com/YSecretY'>![ alt text ](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub)</a>
 <a href='https://t.me/ssecret_s'>![ alt text ](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram)</a>
