@@ -6,7 +6,7 @@
    - :fire: Currently explore C#
 ## :link: My links
 <a href='https://github.com/YSecretY'>![ alt text ](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub)</a>
-<a href='https://t.me/ssecret_s'>![ alt text ](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram)</a>
+<a href='https://t.me/bogdan_hrachov'>![ alt text ](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram)</a>
 <a href='https://www.linkedin.com/in/bogdan-hrachov-190a0225a/'>![ alt text ](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn)</a>
 <!--
 **YSecretY/YSecretY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
