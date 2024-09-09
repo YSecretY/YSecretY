@@ -1,7 +1,7 @@
 # Hi :wave:, It is nice to see you here!
   
 ## :rocket: About me
-   - :mortar_board: Student at :ukraine: Ukrainian university (2-year)
+   - :mortar_board: Student at :ukraine: Ukrainian university (3-year)
    - 🧑🏻‍💻 Learn software engineering
    - :fire: Currently explore C#
 ## :link: My links
